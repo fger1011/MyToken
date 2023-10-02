@@ -6,7 +6,7 @@ A straightforward cryptocurrency-like token can be created and managed on the Et
 ### Executing Program
 Remix is an online Solidity IDE that you may use to run this application. To get started, go to https://remix.ethereum.org/.
 When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as MyToken.sol). The code below should be copied and pasted into the file:
-https://github.com/fger1011/JSActivities/blob/55f58a9f74f60a83d19c7fb0985287e5c0e74964/myToken.sol
+https://github.com/fger1011/MyToken/blob/d3d49010a8826539932e5907d00c1cc1b28d1c70/MyToken.sol
 
 Click the "Solidity Compiler" tab in the left-hand sidebar to compile the code. Click the "Compile MyToken.sol" button after making sure the "Compiler" option is selected to "0.8.18" (or another compatible version).
 
