@@ -6,8 +6,8 @@ A straightforward cryptocurrency-like token can be created and managed on the Et
 ### Executing Program
 Remix is an online Solidity IDE that you may use to run this application. To get started, go to https://remix.ethereum.org/.
 When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as MyToken.sol). The code below should be copied and pasted into the file:
-`
-// SPDX-License-Identifier: MIT
+
+`// SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
 /*
@@ -50,7 +50,7 @@ contract MyToken {
         }
     }
 
-}`
+}
 Click the "Solidity Compiler" tab in the left-hand sidebar to compile the code. Click the "Compile MyToken.sol" button after making sure the "Compiler" option is selected to "0.8.18" (or another compatible version).
 
 Using the "Deploy & Run Transactions" tab in the left-hand sidebar, you can deploy the contract after the code has been compiled. Click the "Deploy" button after selecting the "MyToken" contract from the drop-down menu.
